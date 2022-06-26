@@ -1,6 +1,23 @@
 # FruitSelector
 
+
+## Dependency
+  Node v16.10.0 (at least)
+  https://nodejs.org/en/download/
+
+##
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
+
+## Install all package
+
+    Run npm i @angular/cli
+    
+    npm install
+
+
+
+
 
 ## Development server
 
